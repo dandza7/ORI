@@ -1,0 +1,2 @@
+# ORI
+Osnove Racunarske Inteligencije
