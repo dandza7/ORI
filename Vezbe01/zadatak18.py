@@ -11,4 +11,5 @@ def makeMatrix(x, y):
 
 
 matrix = makeMatrix(int(input("Broj kolona matrice:")), int(input("Broj vrsta matrice:")))
-print(matrix)
+for i in range(0, len(matrix)):
+    print(matrix[i])
